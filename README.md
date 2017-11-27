@@ -8,7 +8,7 @@ A program that sums the even numbers of a fibonacci sequence up to 4 million. Pr
 
 How to run:
 
-Download files
-Go to file directory in the Terminal
-run $ node fibonacciSum.js (need node installed in your machine)
-Follow me on github!
+1. Download files
+2. Go to file directory in the Terminal
+3. run $ node fibonacciSum.js (need node installed in your machine)
+4. Follow me on github!
